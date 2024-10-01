@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "212518069814",
+    "project_id": "adminshop-8f22f",
+    "storage_bucket": "adminshop-8f22f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212518069814:android:416eea9fc89e468c735a97",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6-xiyARIzbvU8_73VZv49W9LSdG7SQE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212518069814:android:9fe70cb42a43ab76735a97",
+        "android_client_info": {
+          "package_name": "com.example.shop_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6-xiyARIzbvU8_73VZv49W9LSdG7SQE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212518069814:android:73a8721bfa2b2efd735a97",
+        "android_client_info": {
+          "package_name": "com.example.venodrs_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6-xiyARIzbvU8_73VZv49W9LSdG7SQE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
